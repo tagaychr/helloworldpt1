@@ -10,9 +10,9 @@ main{
 
 img{
     width: 100%;
-    height: 20vh;
     object-fit: cover;
     border-radius: 10px;
+    margin-right: 1vw;
 }
 
 .logo{
@@ -25,7 +25,8 @@ img{
 .border{
     background-color: #424242;
     height: 15px;
-    width:100%
+    width:100%;
+    margin-bottom: 10vh;
 }
 
 h1{
@@ -51,8 +52,10 @@ section{
 }
 
 .content{
-    height:40vh
+    margin-top: 5vh;
+    height:40vh;
 }
-.title{
-    height:20vh
+code{
+    background-color: #424242;
+    color: #FFF;
 }
