@@ -16,8 +16,8 @@ img{
 }
 
 .logo{
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
     float: left;
     
 }
@@ -31,11 +31,6 @@ img{
 
 h1{
     color:#424242;
-}
-
-div{
-    width: 80%;
-    margin: auto;
 }
 
 section{
@@ -59,3 +54,4 @@ code{
     background-color: #424242;
     color: #FFF;
 }
+
