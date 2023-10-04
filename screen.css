@@ -1,5 +1,7 @@
-body{
+main{
     font-family: Helvetica, sans-serif;
+    width: 80%;
+    margin: auto;
 }
 
 img{
@@ -9,9 +11,15 @@ img{
     border-radius: 10px;
 }
 
+.logo{
+    height: 30px;
+    width: 30px;
+}
+
 .border{
     background-color: #424242;
     height: 15px;
+    width:100%
 }
 
 h1{
@@ -26,5 +34,5 @@ div{
 section{
     border-radius: 5px;
     background-color: E9EAEC;
-    width: 50%;
+    width: 40%;
 }
