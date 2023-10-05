@@ -36,10 +36,9 @@ h1{
 section{
     border-radius: 5px;
     background-color: #E9EAEC;
-    width: 45%;
+    width: 50%;
     float: left;
     height:100%;
-    padding: 10px;
 }
 
 .Example{
@@ -55,3 +54,10 @@ section{
     color: #FFF;
 }
 
+p, h2 {
+    padding: 5px;
+}
+
+.top, .bottom{
+    height: 50%;
+}
