@@ -58,6 +58,12 @@ p, h2 {
     padding: 5px;
 }
 
-.top, .bottom{
+.top{
     height: 50%;
+    margin-bottom: 0px;
+}
+
+.bottom{
+    height: 50%;
+    margin-top: 0px;
 }
