@@ -1,7 +1,8 @@
 body {
     background: #fff;
     font-family: Helvetica, sans-serif;
-    margin: 0 auto;    
+    border-top: 15px solid #424242;    
+
 }
 
 main{
@@ -40,6 +41,7 @@ img {
     border-radius: 20px;
     margin-top: 25px;
     padding: 0;
+    width: 50%;
 }
 
 h2{
