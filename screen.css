@@ -63,7 +63,7 @@ h2{
     margin: 0 0 10px 0;
 }
 
-.content section h2,  .content section p{
+.content section h2{
     margin:25px;
 }
 
@@ -82,7 +82,8 @@ div.bottom{
 }
 
 
-p {
+.content section p {
+    margin:25px;
     color: #000;
     font-family: Helvetica;
     font-style: normal;
