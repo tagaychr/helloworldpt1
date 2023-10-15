@@ -23,6 +23,7 @@ h1 {
     font-size: 3em;
     padding-left: 55px;
     margin: 100px 0 25px 0;
+    color: #424242;
 }
 
 .logo{
@@ -34,7 +35,9 @@ h1 {
 
 .content {
     display: flex;
-    gap: 25px
+    gap: 25px;
+    margin: 100px 0 35px 0;
+
 }
 
 .mac{
