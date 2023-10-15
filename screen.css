@@ -38,6 +38,7 @@ img {
     padding: 25px;
     border-radius: 20px;
     margin-top: 25px;
+    padding: 0;
 }
 
 h2{
@@ -48,9 +49,7 @@ h2{
     margin:25px;
 }
 
-.content section.Example {
-    padding:0;
-}
+
 
 div.bottom{
     padding: 25px;
