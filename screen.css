@@ -15,4 +15,25 @@ img {
 
 .content {
     display: flex;
+    gap: 25px
+}
+
+.mac{
+    background-size: cover;
+    background-position: bottom;
+    height : 200px;
+    border-radius: 20px;
+}
+
+.details section{
+    flex-grow: 1;
+    flex-basis: 0;
+    background: #eee;
+    padding: 25px;
+    border-radius: 20px;
+    margin-top: 25px;
+}
+
+h2{
+    margin: 0 0 10px 0;
 }
