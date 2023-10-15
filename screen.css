@@ -52,8 +52,10 @@ h2{
     padding:0;
 }
 
-div.code-html{
+div.bottom{
     padding: 25px;
     background: #424242;
     color: #fff;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
