@@ -48,7 +48,7 @@ h2{
     margin:25px;
 }
 
-.content section.with-code {
+.content section.Example {
     padding:0;
 }
 
@@ -59,3 +59,4 @@ div.bottom{
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
+
