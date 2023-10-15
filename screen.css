@@ -29,6 +29,7 @@ img {
     background-position: bottom;
     height : 200px;
     border-radius: 20px;
+    box-shadow:5px 5px 10px 0px #999999;
 }
 
 .content section{
@@ -59,3 +60,6 @@ div.bottom{
     border-bottom-right-radius: 20px;
 }
 
+.History{
+    box-shadow:5px 5px 10px 0px #999999;
+}
