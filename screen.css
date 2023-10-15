@@ -45,7 +45,7 @@ h2{
     margin: 0 0 10px 0;
 }
 
-.content section h2 {
+.content section h2,  .content section p{
     margin:25px;
 }
 
