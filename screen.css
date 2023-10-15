@@ -1,20 +1,17 @@
-body{
-    margin: 0px;
-
-}
-main{
+body {
+    background: #fff;
     font-family: Helvetica, sans-serif;
-    width: 80%;
-    margin: auto;
+    margin: 0 auto;    
 }
 
-img{
+main{
+    margin: 0 auto;
+    width: 80%
+}
+
+img {
     width: 100%;
-    object-fit: cover;
-    border-radius: 20px;
-    margin-right: 1vw;
 }
-
 .logo{
     height: 40px;
     width: 40px;
@@ -22,52 +19,41 @@ img{
     
 }
 
-.border{
-    background-color: #424242;
-    height: 15px;
-    width:100%;
-    margin-bottom: 10vh;
+.content {
+    display: flex;
+    gap: 25px
 }
 
-h1{
-    color:#424242;
-}
-
-section{
+.mac{
+    background-size: cover;
+    background-position: bottom;
+    height : 200px;
     border-radius: 20px;
-    background-color: #E9EAEC;
-    width: 48%;
-    float: left;
-    height:100%;
 }
 
-.Example{
-    float: right;
+.content section{
+    flex-grow: 1;
+    flex-basis: 0;
+    background: #eee;
+    padding: 25px;
+    border-radius: 20px;
+    margin-top: 25px;
 }
 
-.content{
-    margin-top: 5vh;
-    height:40vh;
-}
-.bottom{
-    background-color: #424242;
-    color: #FFF;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-
-
+h2{
+    margin: 0 0 10px 0;
 }
 
-p, h2 {
-    padding: 5px;
+.content section h2 {
+    margin:25px;
 }
 
-.top{
-    height: 50%;
-    margin-bottom: 0px;
+.content section.with-code {
+    padding:0;
 }
 
-.bottom{
-    height: 50%;
-    margin-top: 0px;
+div.code-html{
+    padding: 25px;
+    background: #424242;
+    color: #fff;
 }
