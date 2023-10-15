@@ -87,7 +87,7 @@ div.bottom{
     color: #000;
     font-family: Helvetica;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 350;
     line-height: 26px; /* 144.444% */
     font-size: 18px;
 }
@@ -97,6 +97,7 @@ code{
     font-family: Courier;
     font-size: 18px;
     line-height: 26px;
+    font-weight: 350;
 }
 
 h2{
